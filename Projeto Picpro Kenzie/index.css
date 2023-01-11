@@ -26,8 +26,6 @@ body {
     align-items: center;
   }
   
-  header figure img {
-  }
   
   header figure figcaption {
     text-transform: uppercase;
@@ -47,8 +45,6 @@ body {
     height: 100%;
   }
   
-  header nav ul li {
-  }
   
   header nav ul li a {
     color: #1c1c1c;
@@ -73,8 +69,6 @@ body {
     margin: 50px 0 50px;
   }
   
-  section ul.secaoCategorias li {
-  }
   
   section ul.secaoCategorias li a {
     color: #fff;
@@ -100,8 +94,6 @@ body {
     margin-bottom: 50px;
   }
   
-  section ul.listaFilme li figure {
-  }
   
   section ul.listaFilme li figure img {
     width: 100%;
@@ -138,3 +130,6 @@ figure {
   outline: none;
   padding: 0;
   margin: 0;
+
+/*testando git*/
+}
